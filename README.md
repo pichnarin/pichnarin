@@ -25,10 +25,10 @@
 
 | Project         | Description                                          | Tech Stack           |
 |----------------|------------------------------------------------------|----------------------|
-| **Race Tracker App** | Realtime race tracking app for Flutter           | Flutter, Firebase, REST |
-| **Teacher and Parent Smart management system** | Learning Management backend with auth, JWT, OTP    | Node.js, PostgreSQL, Sequelize, Flutter |
-| **Online Shoping app** | Learning Management backend with auth, JWT, OTP    | Php, MySql |
-| **Pizza Spring** | Learning Management backend with auth, JWT, OTP, With real time map tracking    | laravel.js, MySql, Flutter |
+| **Race Tracker App** | A real-time race tracking system that monitors participant progress and displays live race updates via a mobile app. | Flutter, Firebase, REST |
+| **Teacher and Parent Smart management system** | A smart school management platform featuring secure login, OTP verification, student records, and teacher-parent communication. | Node.js, PostgreSQL, Sequelize, Flutter |
+| **Online Shoping app** | A full-featured e-commerce application with user authentication, product browsing, cart management, and order processing. | Php, MySql |
+| **Pizza Sprint** | 	A food delivery app with real-time map tracking, live order status, and secure authentication for both users and delivery staff. | laravel.js, MySql, Flutter |
 
 
 
