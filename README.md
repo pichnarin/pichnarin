@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Pichnarin</h1>
 <p align="center">
-  Systems & language tinkerer • Game dev • Open‑source enthusiast
+  Backend & Frontend Developer | Focused on real-time features, clean APIs & scalable UI
 </p>
 
 ---
