@@ -19,7 +19,6 @@
 - 🔧 Working with Node.js, Express, PostgreSQL, Firebase, Laravel, and PHP
 - 🎨 Building responsive, user-friendly interfaces using Flutter
 - 📡 Focusing on features like real-time tracking, OTP-based authentication, and scalable REST APIs
-- 
 ---
 
 ### 🔧 Featured Projects
