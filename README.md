@@ -7,33 +7,37 @@
 ---
 
 ### 🧠 About Me
-- 📚 Creator of **picrin**, a compact R7RS Scheme interpreter in C
-- 🎮 Built fun projects like **2048Legends** (JS/Python)
-- 💡 Passionate about language design, compilers, and algorithmic games
+- 👨‍💻 Full-stack developer passionate about building real-world apps
+- 📱 Creator of multiple cross-platform applications using Flutter, Laravel, Node.js, and more
+- 💡 Interested in system design, real-time features, and clean, maintainable code
+-🧪 Enjoy experimenting with architecture patterns, authentication systems, and performance optimization
 
 ---
 
 ### 💻 What I’m Working On
-- Maintaining **picrin** in read-only mode (archived Mar 2024)
-- Exploring new language features or VM optimizations
-- Experimenting with web‑based game prototypes & tooling
-
+- 🔁 Developing end-to-end solutions across mobile, web, and backend
+- 🔧 Working with Node.js, Express, PostgreSQL, Firebase, Laravel, and PHP
+- 🎨 Building responsive, user-friendly interfaces using Flutter
+- 📡 Focusing on features like real-time tracking, OTP-based authentication, and scalable REST APIs
+- 
 ---
 
 ### 🔧 Featured Projects
 
-| Project         | Description                                          | Tech     |
-|----------------|------------------------------------------------------|----------|
-| **picrin**     | Lightweight R7RS Scheme interpreter (archived)      | C, Scheme |
-| 2048Legends     | Custom version of “2048” game                       | JS, Python |
-| *Future Project* | Describe what you're building next                 | e.g. Rust + WebAssembly |
+| Project         | Description                                          | Tech Stack           |
+|----------------|------------------------------------------------------|----------------------|
+| **Race Tracker App** | Realtime race tracking app for Flutter           | Flutter, Firebase, REST |
+| **Teacher and Parent Smart management system** | Learning Management backend with auth, JWT, OTP    | Node.js, PostgreSQL, Sequelize, Flutter |
+| **Online Shoping app** | Learning Management backend with auth, JWT, OTP    | Php, MySql |
+| **Pizza Spring** | Learning Management backend with auth, JWT, OTP, With real time map tracking    | laravel.js, MySql, Flutter |
+
+
 
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: `your.email@example.com`
-- 🌐 Blog / Portfolio: [your-blog.com](https://your-blog.com)
-
+- 📧 Email: `pichnarin893@gmail.com`
+- 📞 Telegram `@pich168007`
 ---
 
 ### 📊 GitHub Stats
